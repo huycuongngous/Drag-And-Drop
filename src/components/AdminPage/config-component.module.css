@@ -1,0 +1,8 @@
+.config-component {
+  padding: 10px;
+}
+
+.config-component-input {
+  width: 300px;
+  height: 25px;
+}
